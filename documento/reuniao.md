@@ -6,7 +6,7 @@ Conectar pequenos e microempreendedores da região com pessoas que solicitam ser
 
 ### **Público-Alvo:** 
 
-Pequenos e microempreendedores**;**
+**Pequenos e microempreendedores;**
 
 ### **Funcionalidades:**
 
