@@ -22,12 +22,18 @@
 ##### 5.3. Reusabilidade
 ##### 5.4. Acessibilidade
 ### 6.FUTURO DO PROJETO
-### 7.CONCLUSÃO
+### CONCLUSÃO
 
 
 ------------
 
 ## HISTÓRICO DE REVISÕES
+
+|    Data    | Versão |                       Descrição                      |
+|:----------:|:------:|:----------------------------------------------------:|
+| 11/05/2021 |   0.0  | Criação do documento de especificação de  requisitos |
+| 11/05/2021 |   0.1  |        Estruturação do esqueleto do documento        |
+|            |        |                                                      |
 
 
 ------------
