@@ -29,12 +29,16 @@
 
 ## HISTÓRICO DE REVISÕES
 
-|    Data    | Versão |                       Descrição                      |
-|:----------:|:------:|:----------------------------------------------------:|
-| 11/05/2021 |   0.0  | Criação do documento de especificação de  requisitos |
-| 11/05/2021 |   0.1  |        Estruturação do esqueleto do documento        |
+| Data       | Versão | Descrição                                            |
+|------------|--------|------------------------------------------------------|
+| 11/05/2021 | 0.0    | Criação do documento de especificação de requisitos. |
+| 11/05/2021 | 0.1    | Estruturação do Esqueleto do documento.              |
+| 12/05/2021 | 0.2    | Ajustes das terminologias.                           |
+| 15/05/2021 | 0.3    | Definição da introdução do projeto.                  |
+| 16/05/2021 | 0.4    | Definição do público-alvo.                           |
+| 26/05/2021 | 0.5    | Definição da visão geral do sistema.                 |
+| 26/05/2021 | 0.6    | Definição dos requisitos funcionais.                 |
 |            |        |                                                      |
-
 
 ------------
 
