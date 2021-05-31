@@ -19,8 +19,10 @@
 ### 5.REQUISITOS NÃO-FUNCIONAIS
 ##### 5.1. Usabilidade
 ##### 5.2. Confiabilidade
-##### 5.3. Reusabilidade
-##### 5.4. Acessibilidade
+##### 5.3. Manutenabilidade
+##### 5.4. Reusabilidade
+##### 5.5. Acessibilidade
+##### 5.6. Segurança
 ### 6.FUTURO DO PROJETO
 ### CONCLUSÃO
 
@@ -38,6 +40,8 @@
 | 16/05/2021 | 0.4    | Definição do público-alvo.                           |
 | 26/05/2021 | 0.5    | Definição da visão geral do sistema.                 |
 | 26/05/2021 | 0.6    | Definição dos requisitos funcionais.                 |
+| 28/05/2021 | 0.7    | Definição dos requisitos funcionais.                 |
+| 31/05/2021 | 0.8    | Desenvolvimento do futuro da plataforma              |
 |            |        |                                                      |
 
 ------------
@@ -89,7 +93,8 @@ Segundo o Sebrae (2016), uma das dificuldades de se manter o próprio negócio �
 Levando em consideração as informações acima e o período de pandemia devido a Covid-19, que acarretou na alta no desemprego (14%) e elevação do empreendedorismo no país (20%), a população ararense enfrenta o desemprego e a falta de vagas de emprego e iniciando o próprio negócio devido a necessidade e sem conhecimento de informações básicas sobre gerenciamento e conhecimento do próprio negócio. Além disso, há uma maior concorrência entre esses empreendedores, que, geralmente, empreendem em setores similares (venda de bolos, doces, salgados, pinturas de parede, pedreiro, carreto de mudança, etc).
 
 ### 3.2. Rentabilidade do Negócio
-A ser definido
+A rentabilidade da plataforma será feita através de parcerias com empresas que estejam dentro do mesmo âmbito que o empreendedorismo e o marketing digital, já que os mesmos podem fazer parte do conjunto de recomendações dadas pelo aplicativo. Os parceiros devem estar dentro da mesma proposta que o projeto, contendo funcionalidades de aceleração comercial e gerenciamento de pequenos negócios.
+Por fim, nossos anunciantes devem possuir serviços ou conteúdos total ou parcialmente gratuitos, para que possam agregar qualidade de uso ao nosso público-alvo.
 
 ## 4 - REQUISITOS FUNCIONAIS
 - #### Controle de Acesso
@@ -119,8 +124,32 @@ A ser definido
  
 
 ## 5- REQUISITOS NÃO-FUNCIONAIS
+### 5.1. Usabilidade
+O sistema deverá prover informações sobre os temas mais técnicos para os usuários.
+
+### 5.2. Confiabilidade
+O sistema deverá ter alta disponibilidade de tempo.
+
+### 5.3. Manutenabilidade
+O sistema deverá ter grande facilidade na manutenção do código.
+
+### 5.4. Reusabilidade
+O sistema poderá reutilizar os dados utilizados pelos usuários em diversas outras funcionalidades da plataforma.
+
+### 5.5. Acessibilidade
+O sistema deverá ter funcionalidades que irão facilitar a adequação do sistema visual e usual para determinados grupos de usuários.
+
+### 5.6. Segurança
+O sistema deve criptografar todas as comunicações entre o usuário e o servidor, assim    como deixar explícito qual será o uso e quais dados que o sistema detém do usuário. O sistema também deverá fazer a exclusão de toda e qualquer informação dos usuários quando não houver consentimento do mesmo ou caso este decida parar de fazer uso do nosso sistema. 
 
 ## 6 - FUTURO DO PROJETO
+O futuro da plataforma se propõe a, além de facilitar os cálculos e o controle de um empreendimento inicial, encaminhar o microempreendedor para a capacitação de gerência do próprio negócio. Para isso, o projeto pretende acrescentar às funcionalidades da plataforma a recomendação de cursos gratuitos disponíveis em sites seguros e consolidados, incentivando os usuários a entrarem em contato com a esfera acadêmica empreendedora e, por sua vez, aumentar seu negócio com métodos e conhecimentos na área.
+<br>
+Também relacionando o cliente com a apresentação de facilidades já existentes no mercado, a plataforma contará com a integração dos usuários com outras ferramentas de complemento e produtividade para seu negócio. Dentro desse aspecto, será implementado um módulo dedicado ao uso das mídias sociais para impulsionar a divulgação e as vendas dos nossos clientes, contando com o aproveitamento máximo de ferramentas disponíveis nas principais redes sociais, como a  interpretação das estatísticas geradas pelas páginas virtuais ou as melhores formas de alcançar seu público-alvo com publicações.
+<br>
+E por fim, sendo uma ramificação das propostas anteriores, a divulgação de aplicativos e programas que podem ser usados pelos empreendedores para aumentar a qualidade do seu serviço ou produto, como o uso de ferramentas automáticas de criação publicitária, controle de feed nas redes sociais e planejamento de mídias.
+
 
 ## 7- CONCLUSÃO
+a definir
 
