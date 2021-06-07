@@ -17,7 +17,7 @@ Destaques de cada região dos serviços mais acessados e favoritos.
 
 **Usuários:** Prestadores pessoas físicas(PF) e microempreendedores individuais (MEI)
 
-**Ideia em poucas palavras:** How to open your Business!
+**Ideia em poucas palavras:** Gerenciar seu negócio de forma simples e fácil!
 
 Cálculos
 
