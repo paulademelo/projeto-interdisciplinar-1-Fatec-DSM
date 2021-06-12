@@ -4,7 +4,7 @@
 Projeto Integrador 1º semestre Desenvolvimento de Software Fatec Araras
 
 <h2>⚔️ <em>SOBRE</em> ⚔️ </h2>
-<p> A ideia do nosso projeto é auxiliar pequenos empreendedores (PF's e MEI's),  oferecendo cursos sobre gerenciamento e auto-marketing</p>
+<p> A ideia do nosso projeto é auxiliar pequenos empreendedores (PF's e MEI's), oferecendo ferramentas de controle de negócios, cursos sobre gerenciamento e auto-marketing</p>
   
 <h3> 💼 <em>FUNCIONALIDADES</em> </h3>
 
