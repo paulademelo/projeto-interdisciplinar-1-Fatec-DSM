@@ -43,7 +43,7 @@ Falta de preparo adequado pelas oscilações que ocorrem nos negócios;
 Preocupações com os gastos em excesso;
 
 #### **Diferencial:** 
-Visando abranger a maior parcela possível do nosso público alvo, além de possuir um layout intuitivo, o aplicativo também possui funcionalidades inclusivas através do controle de acessibilidade, como o modo daltônico, alteração de tamanho de fontes e o modo noturno. Além disso, para maior liberdade e privacidade, o aplicativo se adequa a Lei Geral de Proteção de Dados Pessoais (LGPD), assegurando a proteção dos dados coletados dos usuários da plataforma.
+Visando abranger a maior parcela possível do nosso público alvo, além de possuir um layout intuitivo. Além disso, para maior liberdade e privacidade, o aplicativo se adequa a Lei Geral de Proteção de Dados Pessoais (LGPD), assegurando a proteção dos dados coletados dos usuários da plataforma.
 
 #### **Tecnologias utilizadas:** 
 <img src="https://img.icons8.com/nolan/64/api-settings.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/nolan/64/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
