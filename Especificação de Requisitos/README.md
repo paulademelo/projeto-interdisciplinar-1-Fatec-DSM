@@ -19,6 +19,10 @@
 - ##### 4.2. Dores do Publico-Alvo
 - ##### 4.3. Rentabilidade do Negócio
 ### 5.RESQUISITOS FUNCIONAIS
+- ##### 5.1. Requisitos Funcionais Controle de Acesso
+- ##### 5.2. Requisitos Funcionais Controle Financeiro
+- ##### 5.3. Requisitos Funcionais Controle dos Dashboards
+- ##### 5.4. Requisitos Funcionais Controle Acessibilidade
 ### 6.REQUISITOS NÃO-FUNCIONAIS
 - ##### 6.1. Usabilidade
 - ##### 6.2. Confiabilidade
@@ -143,22 +147,22 @@ Por fim, nossos anunciantes devem possuir serviços ou conteúdos total ou parci
 
 ## 6- REQUISITOS NÃO-FUNCIONAIS
 - ### 6.1. Usabilidade
-O sistema deverá prover informações sobre os temas mais técnicos para os usuários.
+   * O sistema deverá prover informações sobre os temas mais técnicos para os usuários.
 
 - ### 6.2. Confiabilidade
-O sistema deverá ter alta disponibilidade de tempo.
+   * O sistema deverá ter alta disponibilidade de tempo.
 
 - ### 6.3. Manutenabilidade
-O sistema deverá ter grande facilidade na manutenção do código.
+   * O sistema deverá ter grande facilidade na manutenção do código.
 
 - ### 6.4. Reusabilidade
-O sistema poderá reutilizar os dados utilizados pelos usuários em diversas outras funcionalidades da plataforma.
+   * O sistema poderá reutilizar os dados utilizados pelos usuários em diversas outras funcionalidades da plataforma.
 
 - ### 6.5. Acessibilidade
-O sistema deverá ter funcionalidades que irão facilitar a adequação do sistema visual e usual para determinados grupos de usuários.
+   * O sistema deverá ter funcionalidades que irão facilitar a adequação do sistema visual e usual para determinados grupos de usuários.
 
 - ### 6.6. Segurança
-O sistema deve criptografar todas as comunicações entre o usuário e o servidor, assim    como deixar explícito qual será o uso e quais dados que o sistema detém do usuário. O sistema também deverá fazer a exclusão de toda e qualquer informação dos usuários quando não houver consentimento do mesmo ou caso este decida parar de fazer uso do nosso sistema. 
+   * O sistema deve criptografar todas as comunicações entre o usuário e o servidor, assim    como deixar explícito qual será o uso e quais dados que o sistema detém do usuário. O sistema também deverá fazer a exclusão de toda e qualquer informação dos usuários quando não houver consentimento do mesmo ou caso este decida parar de fazer uso do nosso sistema. 
 
 ## 7 - FUTURO DO PROJETO
 O futuro da plataforma se propõe a, além de facilitar os cálculos e o controle de um empreendimento inicial, encaminhar o microempreendedor para a capacitação de gerência do próprio negócio. Para isso, o projeto pretende acrescentar às funcionalidades da plataforma a recomendação de cursos gratuitos disponíveis em sites seguros e consolidados, incentivando os usuários a entrarem em contato com a esfera acadêmica empreendedora e, por sua vez, aumentar seu negócio com métodos e conhecimentos na área.
