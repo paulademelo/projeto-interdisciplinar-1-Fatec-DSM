@@ -4,7 +4,7 @@
 Projeto Integrador 1º semestre Desenvolvimento de Software Fatec Araras
 
 <h2>⚔️ <em>SOBRE</em> ⚔️ </h2>
-<p> A ideia do nosso projeto é auxiliar pequenos empreendedores (PF's e MEI's),  oferecendo cursos sobre gerenciamento e auto-marketing</p>
+<p> A ideia do nosso projeto é auxiliar pequenos empreendedores (PF's e MEI's), oferecendo ferramentas de controle de negócios, cursos sobre gerenciamento e auto-marketing</p>
   
 <h3> 💼 <em>FUNCIONALIDADES</em> </h3>
 
@@ -29,3 +29,6 @@ Projeto Integrador 1º semestre Desenvolvimento de Software Fatec Araras
 
 * #### 4. 🔊 Divulgação:
     *   Divulgação do serviço: Mentoria no marketing utilizando as redes sociais
+
+#### **Tecnologias utilizadas:** 
+<img src="https://img.icons8.com/nolan/64/api-settings.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/nolan/64/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
