@@ -1,6 +1,6 @@
 # Telas de Aplicação
 
-[Layout no Figma](https://www.figma.com/file/AREPFehu4dg1B6guzbzywg/Layout-PI_DSM_1_SEM?node-id=0%3A1)
+[Layout do protótipo](https://www.figma.com/proto/w5FGsC2mKfWWoNQyOSTaot/Revised_Frames?page-id=43%3A357&node-id=43%3A357&viewport=339%2C279%2C0.17934386432170868&scaling=scale-down)
 
 ## Splash Screen
 - Tela de apresentação inicial do aplicativo
